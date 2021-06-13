@@ -1,6 +1,6 @@
 ## (front-end) INFOCLIMACL
 
-InfoCLima es una aoplicacion hecha con ionic (Angular, TypeScript, Sass, html, Rxjs, Ngx)
+InfoCLima es una aplicación hecha en Ionic (Angular, TypeScript, Sass, html, Rxjs, Ngx)
 
 <img src="https://github.com/crislaez/InfoClimaCl/blob/master/src/assets/images/foto_proyecto_1.PNG" />
 <hr>
@@ -11,12 +11,12 @@ InfoCLima es una aoplicacion hecha con ionic (Angular, TypeScript, Sass, html, R
 
 ### Que hace el proyecto
 
-InfoCLima es una aplicacion para ver el clima actualr y el de dentro de 6 dias
+InfoCLima es una aplicación hecha en Ionic para ver el clima actual y el de dentro de 6 días
  
 ### Donde pueden recibir ayuda los usuarios con el proyecto
  
-Escribiendome a mi correo crislaez30@gmail.com
+Escribiéndome a mi correo crislaez30@gmail.com
 
 ### Quien mantiene y construye el proyecto
 
-Yo mismo, y con muchisima ilusión
+Yo mismo, y con muchísima ilusión
