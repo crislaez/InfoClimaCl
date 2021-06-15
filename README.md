@@ -1,6 +1,6 @@
 ## (front-end) INFOCLIMACL
 
-InfoCLima es una aplicación hecha en Ionic (Angular, TypeScript, Sass, html, Rxjs, Ngx)
+InfoCLima es una aplicación hecha en Ionic (Angular, TypeScript, Sass/Css, Html, Rxjs, Ngrx)
 
 <img src="https://github.com/crislaez/InfoClimaCl/blob/master/src/assets/images/foto_proyecto_1.PNG" />
 <hr>
